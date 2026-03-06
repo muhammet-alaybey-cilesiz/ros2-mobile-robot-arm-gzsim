@@ -23,7 +23,8 @@ ros2-mobile-robot-arm-gzsim/
 ```  
 
 ## Visuals
-- ![VS Code File Tree](<link_to_file_tree_image>)  
+<img width="1854" height="1014" alt="Screenshot from 2026-03-05 21-02-34" src="https://github.com/user-attachments/assets/ceb91f6c-c3b3-4fde-b43c-7d4e78d89857" />
+  
 - ![Gazebo Robot and Pallets](<link_to_gazebo_image>)  
 - ![Teleop and Camera View](<link_to_teleop_camera_image>)  
 - ![Fullscreen Gazebo/Terminal/RViz2](<link_to_fullscreen_image>)  
