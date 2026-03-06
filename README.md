@@ -43,11 +43,23 @@ src/
 ```  
 
 ## Visuals
+1. ROS 2 Node and Topic Communication (rqt_graph)
 <img width="1851" height="974" alt="image" src="https://github.com/user-attachments/assets/654f24e8-21ee-4790-aac5-16ce5b5f99d5" />
+2. Simulation Environment (Gazebo World)
 <img width="1854" height="1014" alt="Screenshot from 2026-03-05 21-02-34" src="https://github.com/user-attachments/assets/ceb91f6c-c3b3-4fde-b43c-7d4e78d89857" />
+3. Teleop Control and Camera Display 
 <img width="1853" height="1000" alt="image" src="https://github.com/user-attachments/assets/fe42aea0-54b0-43ff-9bf8-367a6c3313ff" />
+4. Robot Arm Visualization (Gazebo + Terminal + RViz2)
 <img width="1854" height="1014" alt="image" src="https://github.com/user-attachments/assets/1ccd41b5-b45a-4176-b30a-7a6745595dfa" />
 
+Installation & Quick Start
+
+Build the workspace:
+colcon build
+source install/setup.bash
+
+Launch the simulation:
+ros2 launch robot_bringup robot_gazebo_launch.xml
 
 ## Future Plans
 - Develop plugins for enhanced camera integration.  
