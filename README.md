@@ -12,14 +12,34 @@ This project utilizes ROS 2 (Jazzy) and Gazebo (Harmonic) to create a differenti
 
 ## Directory Structure
 ```
-ros2-mobile-robot-arm-gzsim/
-│
-├── .vscode/                # VS Code configuration files
-├── my_robot_description/   # Description files for robot modeling
-│   ├── urdf/               # URDF files
-│   └── xacro/              # Xacro files
-├── robot_bringup/          # Launch files for starting up the robot
-└── ...                     # Other project-related files
+src/
+├── .vscode/
+├── my_robot_description/
+│   ├── launch/
+│   │   ├── display.launch.py
+│   │   ├── display.launch.xml
+│   │   └── for_arm.launch.xml
+│   ├── rviz/
+│   │   └── my_robot.rviz
+│   ├── urdf/
+│   │   ├── camera.xacro
+│   │   ├── common_properties.xacro
+│   │   ├── main.urdf.xacro
+│   │   ├── mobile_base_gazebo.xacro
+│   │   ├── mobile_base.xacro
+│   │   ├── robot_arm_gazebo.xacro
+│   │   └── robot_arm.xacro
+│   ├── CMakeLists.txt
+│   └── package.xml
+└── robot_bringup/
+    ├── config/
+    │   └── gazebo_bridge.yaml
+    ├── launch/
+    │   └── robot_gazebo_launch.xml
+    ├── world/
+    │   └── world1.1.sdf
+    ├── CMakeLists.txt
+    └── package.xml
 ```  
 
 ## Visuals
