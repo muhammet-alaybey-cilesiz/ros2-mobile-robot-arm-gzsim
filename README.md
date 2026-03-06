@@ -27,8 +27,7 @@ ros2-mobile-robot-arm-gzsim/
   
 - ![Gazebo Robot and Pallets](<link_to_gazebo_image>)  
 - ![Teleop and Camera View](<link_to_teleop_camera_image>)  
-- ![Fullscreen Gazebo/Terminal/RViz2](<img width="1854" height="1014" alt="image" src="https://github.com/user-attachments/assets/4d4618f2-d6c9-4e34-8f46-310775cee05d" />
-)  
+- ![Fullscreen Gazebo/Terminal/RViz2](<img width="1854" height="1014" alt="image" src="https://github.com/user-attachments/assets/4d4618f2-d6c9-4e34-8f46-310775cee05d" />)  
 
 ## Future Plans
 - Develop plugins for enhanced camera integration.  
