@@ -6,7 +6,6 @@
 ![Gazebo](https://img.shields.io/badge/Gazebo-Harmonic-orange?style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 
@@ -98,11 +97,13 @@ ros2 launch robot_bringup robot_gazebo_launch.xml
 
 ## 🔭 Future Plans
 
-- [ ] 📷 Develop plugins for enhanced camera integration
-- [ ] 🚗 Implement driving plugins for improved mobility control
+- 📷 Develop plugins for enhanced camera integration
+- 🚗 Implement driving plugins for improved mobility control
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ using ROS 2 & Gazebo</sub>
+
+⭐ **If you find this project useful, consider giving it a star!**
+
 </div>
