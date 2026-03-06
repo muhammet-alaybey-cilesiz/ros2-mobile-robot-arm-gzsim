@@ -1,9 +1,12 @@
 # 🤖 ROS 2 Mobile Robot Arm Simulation
 
-![ROS2](https://img.shields.io/badge/ROS2-Jazzy-blue)
-![Gazebo](https://img.shields.io/badge/Gazebo-Harmonic-orange)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420)
-![Status](https://img.shields.io/badge/Status-Active-success)
+<div align="center">
+
+![ROS2](https://img.shields.io/badge/ROS%202-Jazzy-blue?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-Harmonic-orange?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 
