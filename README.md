@@ -24,11 +24,7 @@ ros2-mobile-robot-arm-gzsim/
 
 ## Visuals
 <img width="1854" height="1014" alt="Screenshot from 2026-03-05 21-02-34" src="https://github.com/user-attachments/assets/ceb91f6c-c3b3-4fde-b43c-7d4e78d89857" />
-<img width="1524" height="826" alt="image" src="https://github.com/user-attachments/assets/a377bf9e-6daa-4d6c-915a-0eb15adf5de6" />
 <img width="1853" height="1000" alt="image" src="https://github.com/user-attachments/assets/fe42aea0-54b0-43ff-9bf8-367a6c3313ff" />
-
-  
- 
 <img width="1854" height="1014" alt="image" src="https://github.com/user-attachments/assets/1ccd41b5-b45a-4176-b30a-7a6745595dfa" />
 
 
