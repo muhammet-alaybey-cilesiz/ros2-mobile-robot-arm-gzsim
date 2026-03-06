@@ -1,4 +1,9 @@
-# ROS 2 Mobile Robot Arm Simulation
+# 🤖 ROS 2 Mobile Robot Arm Simulation
+
+![ROS2](https://img.shields.io/badge/ROS2-Jazzy-blue)
+![Gazebo](https://img.shields.io/badge/Gazebo-Harmonic-orange)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 ## Project Overview
 This project utilizes ROS 2 (Jazzy) and Gazebo (Harmonic) to create a differential drive mobile robot equipped with an arm. The robot is designed for simulation in various environments with a focus on ease of operation and versatility.
